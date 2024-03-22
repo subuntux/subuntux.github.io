@@ -1,0 +1,15 @@
+Package: pyterm
+Version: 1.2
+Architecture: all
+Maintainer: Subuntu X <subuntux@github.com>
+Installed-Size: 23
+Depends: python3
+Homepage: https://github.com/subuntux/term-master
+Description: Termux Menu
+Filename: dists/termux/extras/binary-all/pyterm_1.2_all.deb
+Size: 6140
+MD5Sum: 9475fac2c165ee0475e7c333852b6c70
+SHA1: 3e988692f3a75a733ddb36b93a9d95e37a014d1d
+SHA256: 9da943ee9c44bb85893f3df58eb7e684af5a8936e3b3a6feaf0cbeb037399b92
+SHA512: 56d40f48f54d7cbbaea788cd6c5d49f73074b158c16e933a20fd05979b6f0278fdb92ff9462dd76ec2d7ac0a37f87e9f2278ac5e51c74efc4203844de487dab6
+
