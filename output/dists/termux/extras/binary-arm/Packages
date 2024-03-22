@@ -1,15 +1,15 @@
-Package: pyterm
-Version: 1.2
+Package: autogit
+Version: 1.0
 Architecture: arm
 Maintainer: Subuntu X <subuntux@github.com>
-Installed-Size: 23
+Installed-Size: 3
 Depends: python3
 Homepage: https://github.com/subuntux/term-master
 Description: Termux Menu
-Filename: dists/termux/extras/binary-arm/pyterm_1.2_arm.deb
-Size: 6140
-MD5Sum: 8fa9bd3e1ceb3120715d60dbd1729e19
-SHA1: 7e0e3021096fba0d9d1d8b071d595f3ac73ba61d
-SHA256: 6144ff3eb54d7b1d4ebb9a8f619a1a1cbad486908d4b1e913a957269fd18f5d0
-SHA512: ace4140c4e93f262ee46d3d90e1aed8f6500e449e989e62517829b087cfcb24ab98d45d7d34377774beddf21224b2238cd826c7383ec64f79d8fb6c85d745d81
+Filename: dists/termux/extras/binary-arm/autogit_1.0_arm.deb
+Size: 1548
+MD5Sum: 11b0b21a860285873dca57e8cccb9d09
+SHA1: a39e3f982ea47c50dd209d39c68c4fff7b9fd634
+SHA256: b86172447943064c38119c07831e63e29271e4946b109385f15122dd81a735a3
+SHA512: e6207d3ca06d0ebb3a77ef1ad1ab2731e7d450b8ae30784b4674a6c09a402ea46d867329cee0519e163438d6ab634816c31eec0fa84332ba69f2ced2f9bcc76f
 

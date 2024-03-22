@@ -1,7 +1,1 @@
-data/data/com.termux/files/usr/bin/pyterm                                        pyterm
-data/data/com.termux/files/usr/shared/pyterm/adb                                 pyterm
-data/data/com.termux/files/usr/shared/pyterm/coc-settings.json                   pyterm
-data/data/com.termux/files/usr/shared/pyterm/dl.sh                               pyterm
-data/data/com.termux/files/usr/shared/pyterm/exist.sh                            pyterm
-data/data/com.termux/files/usr/shared/pyterm/init.vim                            pyterm
-data/data/com.termux/files/usr/shared/pyterm/main                                pyterm
+data/data/com.termux/files/usr/bin/autogit                                       autogit
