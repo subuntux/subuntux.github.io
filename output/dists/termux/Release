@@ -1,6 +1,6 @@
 Codename: termux
 Version: 1
-Architectures: all
+Architectures: arm
 Description: termux repository
 Suite: termux
 Date: Fri, 22 Mar 2024 09:04:03 UTC
