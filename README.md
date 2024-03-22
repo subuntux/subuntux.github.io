@@ -20,4 +20,7 @@ nano /etc/apt/sources.list.d/eez.list
 
 Or Download with curl the repo .deb
 ```bash
-curl 
+curl https://github.com/subuntux/subuntux.github.io/raw/main/eez-repo.deb -o eez-repo.deb
+dpkg -i eez-repo.deb
+apt update
+```
