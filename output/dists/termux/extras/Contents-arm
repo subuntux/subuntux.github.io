@@ -6,3 +6,16 @@ data/data/com.termux/files/usr/shared/pyterm/dl.sh                              
 data/data/com.termux/files/usr/shared/pyterm/exist.sh                            pyterm
 data/data/com.termux/files/usr/shared/pyterm/init.vim                            pyterm
 data/data/com.termux/files/usr/shared/pyterm/main                                pyterm
+data/data/com.termux/files/usr/bin/pyterm                                        pyterm
+data/data/com.termux/files/usr/shared/pyterm/adb                                 pyterm
+data/data/com.termux/files/usr/shared/pyterm/add.sh                              pyterm
+data/data/com.termux/files/usr/shared/pyterm/browser.py                          pyterm
+data/data/com.termux/files/usr/shared/pyterm/coc-settings.json                   pyterm
+data/data/com.termux/files/usr/shared/pyterm/db/links.db                         pyterm
+data/data/com.termux/files/usr/shared/pyterm/db/user.db                          pyterm
+data/data/com.termux/files/usr/shared/pyterm/dl.sh                               pyterm
+data/data/com.termux/files/usr/shared/pyterm/exist.sh                            pyterm
+data/data/com.termux/files/usr/shared/pyterm/init.vim                            pyterm
+data/data/com.termux/files/usr/shared/pyterm/main                                pyterm
+data/data/com.termux/files/usr/shared/pyterm/main.py                             pyterm
+data/data/com.termux/files/usr/shared/pyterm/xtra.py                             pyterm
