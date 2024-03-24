@@ -43,3 +43,18 @@ SHA1: b6dc1c9416863b20c78847bbc768b6fa29727386
 SHA256: 43bbfbcfa9a3c3c23776555b31cb245001bfd97d7a13150541ede98ba80918a0
 SHA512: b0df65bc2220574762aef2cb8da1a32a51e3ffb8b1cc00327ad63d5a94d152b32cfc03f8d69df65e1d811c3babb2171efaf1f9836f7840314397d3fcd0f4d61b
 
+Package: pyterm
+Version: 1.4
+Architecture: arm
+Maintainer: Subuntu X <subuntux@github.com>
+Installed-Size: 44
+Depends: python3, sqlite
+Homepage: https://github.com/subuntux/term-master
+Description: Termux Menu
+Filename: dists/termux/extras/binary-arm/pyterm_1.4_arm.deb
+Size: 8084
+MD5Sum: 7d08ff2d4d87a514885c819691fcb65e
+SHA1: bdf5fcf1256b4c897242a812790428d640c8b94b
+SHA256: 3a3002e442441855a525f08c9f56a22696f74bfbeaf4df70b35054704cadd1f6
+SHA512: 149a27b53b4f41e81f0dd20574a61e782e9c887fa2789240b6e5962a953a4ed939348177953706e747a623ff3c24513bcce5931bd927d1a839cfeb66e3f96dda
+
