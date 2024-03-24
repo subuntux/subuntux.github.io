@@ -13,6 +13,21 @@ SHA1: a39e3f982ea47c50dd209d39c68c4fff7b9fd634
 SHA256: b86172447943064c38119c07831e63e29271e4946b109385f15122dd81a735a3
 SHA512: e6207d3ca06d0ebb3a77ef1ad1ab2731e7d450b8ae30784b4674a6c09a402ea46d867329cee0519e163438d6ab634816c31eec0fa84332ba69f2ced2f9bcc76f
 
+Package: autogit
+Version: 1.3
+Architecture: arm
+Maintainer: Subuntu X <subuntux@github.com>
+Installed-Size: 4
+Depends: python3
+Homepage: https://github.com/subuntux/term-master
+Description: Termux Menu
+Filename: dists/termux/extras/binary-arm/autogit_1.3_arm.deb
+Size: 1860
+MD5Sum: 4f51662ef1fb57ce8ac1a57f2e6bdac9
+SHA1: 5891f498969d2338b6c3edb4c77f87971f43c31e
+SHA256: b22dd4eb6d3ac210f921e8142a8b5331c5d8fc318bb43b4187a7acb4d5949781
+SHA512: 1704650bd210ea2257d1bea332b6a760b455cc8e33fa261c20ee680dfe58b5ac4eb7649a5d567de1462ce0fe62bbcfad32e83f508c995fa71b0a3264e51b1394
+
 Package: pyterm
 Version: 1.2
 Architecture: arm
