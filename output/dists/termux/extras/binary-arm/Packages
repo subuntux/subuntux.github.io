@@ -73,3 +73,18 @@ SHA1: bdf5fcf1256b4c897242a812790428d640c8b94b
 SHA256: 3a3002e442441855a525f08c9f56a22696f74bfbeaf4df70b35054704cadd1f6
 SHA512: 149a27b53b4f41e81f0dd20574a61e782e9c887fa2789240b6e5962a953a4ed939348177953706e747a623ff3c24513bcce5931bd927d1a839cfeb66e3f96dda
 
+Package: termux-adduser
+Version: 1.4
+Architecture: arm
+Maintainer: Subuntu X <subuntux@github.com>
+Installed-Size: 22787
+Depends: python3, sqlite
+Homepage: https://github.com/subuntux/term-master
+Description: adduser
+Filename: dists/termux/extras/binary-arm/termux-adduser_1.4_arm.deb
+Size: 4103216
+MD5Sum: 9781ea5df5e0c617f621b8ccb75cb7f7
+SHA1: 7e32756df2ad9f73da10d8d62ffa74fc2363c127
+SHA256: 2a17beabe00c87e8b6d5eaf55cd9a12492155084dd8d6b01374d434e2b6ce34b
+SHA512: 66fffdfa801ac238c5d36aef37605a1de02fd81a4b16402ba7b153d4f72597643da5d616acf5097b57107a0e88ce1d0e1dbb7fc5e1a5dbfe051c0552b20bfb73
+
